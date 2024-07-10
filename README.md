@@ -8,15 +8,15 @@ This is a simple AIML Project named Autonomous Self-Driving Car Simulation using
 
 - CARLA is a open-source software that can be used to develop games and test the code for autonomous vehicles.
 
-- So here there a 3 folders inside the main folder.
+- So here there should be 3 folders inside the main folder.
 
-- two of them are empty.
+- two of them should be empty.
 
 - while creating the model, those two folders will be useful.
 
-- one folder will store the models that are trained for each iterations
+- one folder will store the models that are trained for each iterations should be named "models"
 
-- another folder will store the logs for each iteration simultaneously.
+- another folder will store the logs for each iteration simultaneously should be named "logs"
 
 - the time to create the model will be approximately 60 hours ( According to my specs of the laptop ) for the complete and accurate model.
 
