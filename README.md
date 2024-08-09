@@ -36,7 +36,7 @@ My lap Specs are : Lenovo Legion 5 Pro
   Enjoy!!!
 
 
-any further dubts feel free to contact me , e-mail : muralikrishna.professional2@gmail.com
+any further dubts feel free to contact me , e-mail : muralikrishna.professional1@gmail.com
 
 
 
